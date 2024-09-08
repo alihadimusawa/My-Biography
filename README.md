@@ -9,7 +9,6 @@ Baseline for Styling: To create a foundation that can later be enhanced with sty
 # What's Included
 Headings and Subheadings: Organizing sections like Introduction, Education, Work Experience, Skills, and Interests.
 Paragraphs and Lists: Presenting information in a clear and readable format.
-Semantic Tags: Utilizing tags like <header>, <main>, <section>, and <footer> for better HTML semantics.
 
 # How to View the Profile
 Clone or Download: Get a copy of this repository onto your local machine.
